@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://hackernoon.com/images/f2px36fy.gif"  width="952" height="220" /> 
+   <img src="https://hackernoon.com/images/f2px36fy.gif"  width="952" height="350" /> 
 </p>
 
 

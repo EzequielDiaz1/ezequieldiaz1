@@ -2,11 +2,6 @@
    <img src="https://hackernoon.com/images/f2px36fy.gif"  width="952" height="350" /> 
 </p>
 
-
-
-### Hi there 👋
-
-
 ```
 👦🏻 My name is Ezequiel, i'm 22 years old.
   📍  I'm from Córdoba, Argentina.

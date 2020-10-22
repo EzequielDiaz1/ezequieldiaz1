@@ -13,6 +13,11 @@
       📩 My email is: ezequiel.diaz1337@gmail.com 
 ```
 
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=EzequielDiaz1&show_icons=true&theme=gruvbox)
+
+
+
 <h3 align="center">Contact me:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/ezequiel-diaz-4b6b0b199/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"     alt="ezequieldiaz1_" height="30" width="40" /></a>

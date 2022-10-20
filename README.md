@@ -3,9 +3,9 @@
 </p>
 
 ```
-👦🏻 My name is Ezequiel, i'm 22 years old.
+👦🏻 My name is Ezequiel, i'm 24 years old.
   📍  I'm from Córdoba, Argentina.
-    📚 I'm a fullstack developer specialised in JavaScript, React, Redux and NodeJS.
+    📚 I'm a fullstack developer specialised in React and NodeJS.
       📩 My email is: ezequiel.diaz1337@gmail.com 
 ```
 

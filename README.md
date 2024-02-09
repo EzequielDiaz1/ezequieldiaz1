@@ -3,7 +3,7 @@
 </p>
 
 ```
-👦🏻 My name is Ezequiel, i'm 24 years old.
+👦🏻 My name is Ezequiel, i'm 26 years old.
   📍  I'm from Córdoba, Argentina.
     📚 I'm a fullstack developer.
       🤾🏻 Handball Player.

@@ -3,7 +3,7 @@
 </p>
 
 ```
-👦🏻 My name is Ezequiel, i'm 26 years old.
+👦🏻 My name is Ezequiel, i'm 27 years old.
   📍  I'm from Córdoba, Argentina.
     📚 I'm a fullstack developer.
       🤾🏻 Handball Player.
@@ -20,7 +20,9 @@ Next.js,
 Material-UI,
 AntDesign,
 TailwindCSS,
+Django,
 Node.js,
+Nest.js,
 Express.js
 Sequelize ORM,
 PostgreSQL,
